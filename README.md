@@ -1,6 +1,12 @@
-## 中文
+# Malevolence ZHCN——*Sekiro: Shadows Die Twice*
 
-为 *Sekiro: Shadows Die Twice* 的 mod：[Malevolence](https://www.nexusmods.com/sekiro/mods/1819) 提供的简体中文语言包。
+Simplified Chinese language pack for the *Sekiro: Shadows Die Twice* mod: [Malevolence](https://www.nexusmods.com/sekiro/mods/1819)
+
+**中文** · [English](#English)
+
+---
+
+## 中文
 
 ### 安装
 
@@ -31,8 +37,6 @@ msg/zhocn/menu.msgbnd.dcx   菜单、对白、字幕等文本
 ---
 
 ## English
-
-Simplified Chinese language pack for the *Sekiro: Shadows Die Twice* mod: [Malevolence](https://www.nexusmods.com/sekiro/mods/1819)
 
 ### Installation
 
