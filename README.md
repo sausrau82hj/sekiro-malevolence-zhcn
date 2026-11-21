@@ -4,13 +4,11 @@
 
 ### 安装
 
-1. 解压后把 `msg` 文件夹复制进 `...\mods\`（已有同名文件先备份）。
-2. 标题画面 → `Language` → `Text` → 简体中文 → 重启游戏。
+1. 使用 [Sekiro Mod Engine](https://www.nexusmods.com/sekiro/mods/6) 安装 [Malevolence](https://www.nexusmods.com/sekiro/mods/1819)。
+2. 解压后把 `msg` 文件夹覆盖 `...\Malevolence\msg`（已有同名文件夹先备份）。
+3. 标题画面 → `Language` → `Text` → 简体中文 → 重启游戏。
 
-   这里只列举一种安装方式，你也可以使用：
-- [Sekiro ME](https://www.nexusmods.com/sekiro/mods/6)
-- [ME3](https://github.com/garyttierney/me3)
-
+   这里只列举一种安装方式，如果你不想覆盖 `...\Malevolence\msg`，你也可以尝试使用：[ME3](https://github.com/garyttierney/me3)
 
 ### 已知限制
 
@@ -38,13 +36,11 @@ Simplified Chinese language pack for the *Sekiro: Shadows Die Twice* mod: [Malev
 
 ### Installation
 
-1. Unzip and copy the `msg` folder into `...\mods\` (back up any files it replaces).
-2. Title screen → `Language` → `Text` → Simplified Chinese → restart.
+1. Install [Malevolence](https://www.nexusmods.com/sekiro/mods/1819) using [Sekiro Mod Engine](https://www.nexusmods.com/sekiro/mods/6).
+2. After extracting the files, overwrite the `msg` folder at `...\Malevolence\msg` (please back up any existing folder with the same name first).
+3. From the title screen, go to `Language` → `Text` → Simplified Chinese, then restart the game. 
 
-   Only one method is listed here, you can also use these: 
-- [Sekiro ME](https://www.nexusmods.com/sekiro/mods/6)
-- [ME3](https://github.com/garyttierney/me3)
-
+This is just one possible installation method. If you prefer not to overwrite the `msg` folder at `...\Malevolence\msg`, you can try using [ME3](https://github.com/garyttierney/me3) instead.
 
 ### Known limitations
 
@@ -54,7 +50,6 @@ Simplified Chinese language pack for the *Sekiro: Shadows Die Twice* mod: [Malev
 2. Chinese paragraph breaks follow the official CN text; some entries keep fewer blank lines than the
    English version, exactly as the official localization does.
    
-   Only one method is listed here.
 ### Layout
 
 ```
