@@ -7,7 +7,10 @@
 1. 解压后把 `msg` 文件夹复制进 `...\mods\`（已有同名文件先备份）。
 2. 标题画面 → `Language` → `Text` → 简体中文 → 重启游戏。
 
-   这里只列举一种安装方式。
+   这里只列举一种安装方式，你也可以使用：
+- [Sekiro ME](https://www.nexusmods.com/sekiro/mods/6)
+- [ME3](https://github.com/garyttierney/me3)
+
 
 ### 已知限制
 
@@ -38,8 +41,12 @@ Simplified Chinese language pack for the *Sekiro: Shadows Die Twice* mod: [Malev
 1. Unzip and copy the `msg` folder into `...\mods\` (back up any files it replaces).
 2. Title screen → `Language` → `Text` → Simplified Chinese → restart.
 
-### Known limitations
+   Only one method is listed here, you can also use these: 
+- [Sekiro ME](https://www.nexusmods.com/sekiro/mods/6)
+- [ME3](https://github.com/garyttierney/me3)
 
+
+### Known limitations
 
 1. Four tables present in the English bundle are absent from both the Chinese one and the official
    Chinese localization (`メニュー共通テキスト`, `メニューその他`, `項目ヘルプ`, `テキスト表示用タグ一覧`);
@@ -48,7 +55,6 @@ Simplified Chinese language pack for the *Sekiro: Shadows Die Twice* mod: [Malev
    English version, exactly as the official localization does.
    
    Only one method is listed here.
-
 ### Layout
 
 ```
