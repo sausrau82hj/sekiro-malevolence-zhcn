@@ -1,0 +1,5 @@
+# packaged zip (not needed in git)
+*.zip
+
+# scratch space
+_work/
