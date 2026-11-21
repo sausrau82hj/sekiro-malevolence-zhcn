@@ -1,4 +1,4 @@
-# Malevolence ZHCN——*Sekiro: Shadows Die Twice*
+# Malevolence ZHCN — *Sekiro: Shadows Die Twice*
 
 Simplified Chinese language pack for the *Sekiro: Shadows Die Twice* mod: [Malevolence](https://www.nexusmods.com/sekiro/mods/1819)
 
